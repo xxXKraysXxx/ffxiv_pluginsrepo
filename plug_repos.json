@@ -11,7 +11,7 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "DownloadLinkInstall": "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/main/plugins/vfallgay/latest.zip",
+    "DownloadLinkInstall": "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/vfallgay/latest.zip",
     "IconUrl": "https://raw.githubusercontent.com/xxXKraysXxx/ffxiv_vfallguy/refs/heads/master/fallgay.png",
     "Punchline": "Помогите я руссифицировал бобы!",
     "AcceptsFeedback": false,
