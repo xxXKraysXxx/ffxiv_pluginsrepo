@@ -1,0 +1,21 @@
+[
+  {
+    "Author": "veyn and krays",
+    "Name": "vfallgay",
+    "InternalName": "vfallgay",
+    "AssemblyVersion": "0.0.0.0",
+    "Description": "Авто вход/выход при поражении, поиск лобби с малым кол-вом людей, подсветка зон на последнем этапе.",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 10,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "DownloadLinkInstall": "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/main/plugins/vfallgay/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/xxXKraysXxx/ffxiv_vfallguy/refs/heads/master/fallgay.png",
+    "Punchline": "Помогите я руссифицировал бобы!",
+    "AcceptsFeedback": false,
+    "DownloadCount": 0,
+    "LastUpdate": "1729949744"
+  }
+]
