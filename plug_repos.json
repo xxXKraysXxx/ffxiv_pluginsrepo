@@ -1,21 +1,24 @@
 [
-  {
-    "Author": "veyn and krays",
-    "Name": "vfallgay",
-    "InternalName": "vfallgay",
-    "AssemblyVersion": "0.0.0.0",
+ {
+    "Author": "veyn, croizat ... krays",
+    "Name": "vfallguy",
+    "Punchline": "Бобы руссифицировали!",
     "Description": "Авто вход/выход при поражении, поиск лобби с малым кол-вом людей, подсветка зон на последнем этапе.",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 10,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
+    "Tags": [],
+    "InternalName": "vfallgay",
+    "RepoUrl": null,
+    "DownloadCount": 1337,
+    "LastUpdate": 1762004081,
     "DownloadLinkInstall": "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/fallgay/latest.zip",
-    "IconUrl": "https://raw.githubusercontent.com/xxXKraysXxx/ffxiv_vfallguy/refs/heads/master/fallgay.png",
-    "Punchline": "Помогите я руссифицировал бобы!",
-    "AcceptsFeedback": false,
-    "DownloadCount": 0,
-    "LastUpdate": "1729949744"
+    "DownloadLinkUpdate": "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/fallgay/latest.zip",
+    "AssemblyVersion": "0.0.0.10",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "13",
+    "Changelog": "",
+    "IconUrl": "https://raw.githubusercontent.com/xxXKraysXxx/ffxiv_vfallguy/refs/heads/master/fallgay.png"
   }
 ]
+
+
+
+ 
