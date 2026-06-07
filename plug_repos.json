@@ -1,45 +1,47 @@
-[
- {
-    "Author": "veyn, croizat ... krays",
-    "Name": "vfallgay",
-    "Punchline": "Бобы руссифицировали!",
-    "Description": "Авто вход/выход при поражении, поиск лобби с малым кол-вом людей, подсветка зон на последнем этапе.",
-    "Tags": [],
-    "InternalName": "vfallgay",
-    "RepoUrl": null,
-    "DownloadCount": 1337,
-    "LastUpdate": 1762004081,
-    "DownloadLinkInstall": "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/fallgay/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/fallgay/latest.zip",
-    "AssemblyVersion": "0.0.0.10",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "13",
-    "Changelog": "",
-    "IconUrl": "https://raw.githubusercontent.com/xxXKraysXxx/ffxiv_pluginsrepo/refs/heads/main/plugins/fallgay/fallgay.png"
-  },
-  {
-    "Author": "krays",
-    "Name": "Cairn of Maybe Later",
-    "Punchline": "Autopilot for Palace of the Dead, Heaven-on-High, Eureka Orthos and Pilgrim's Traverse. Eventually.",
-    "Description": "Ворк ин прогресс",
-    "Tags": [
-      "deep dungeon",
-      "potd",
-      "hoh",
-      "orthos",
-      "pilgrim's traverse",
-      "automation"
-    ],
-    "InternalName": "CairnOfMaybeLater",
-    "RepoUrl": "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo",
-    "DownloadCount": 0,
-    "LastUpdate": 1780849360,
-    "DownloadLinkInstall": "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/CairnOfMaybeLater/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/CairnOfMaybeLater/latest.zip",
-    "AssemblyVersion": "0.1.0.0",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "15",
-    "Changelog": "Initial public test release.",
-    "IconUrl": ""
-  }
+﻿[
+    {
+        "Author":  "veyn, croizat ... krays",
+        "Name":  "vfallgay",
+        "Punchline":  "Бобы руссифицировали!",
+        "Description":  "Авто вход/выход при поражении, поиск лобби с малым кол-вом людей, подсветка зон на последнем этапе.",
+        "Tags":  [
+
+                 ],
+        "InternalName":  "vfallgay",
+        "RepoUrl":  null,
+        "DownloadCount":  1337,
+        "LastUpdate":  1762004081,
+        "DownloadLinkInstall":  "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/fallgay/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/fallgay/latest.zip",
+        "AssemblyVersion":  "0.0.0.10",
+        "ApplicableVersion":  "any",
+        "DalamudApiLevel":  "13",
+        "Changelog":  "",
+        "IconUrl":  "https://raw.githubusercontent.com/xxXKraysXxx/ffxiv_pluginsrepo/refs/heads/main/plugins/fallgay/fallgay.png"
+    },
+    {
+        "Author":  "krays",
+        "Name":  "Cairn of Maybe Later",
+        "Punchline":  "Autopilot for Palace of the Dead, Heaven-on-High, Eureka Orthos and Pilgrim\u0027s Traverse. Eventually.",
+        "Description":  "Ворк ин прогресс",
+        "Tags":  [
+                     "deep dungeon",
+                     "potd",
+                     "hoh",
+                     "orthos",
+                     "pilgrim\u0027s traverse",
+                     "automation"
+                 ],
+        "InternalName":  "CairnOfMaybeLater",
+        "RepoUrl":  "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo",
+        "DownloadCount":  0,
+        "LastUpdate":  1780857666,
+        "DownloadLinkInstall":  "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/CairnOfMaybeLater/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/CairnOfMaybeLater/latest.zip",
+        "AssemblyVersion":  "0.1.0.0",
+        "ApplicableVersion":  "any",
+        "DalamudApiLevel":  "15",
+        "Changelog":  "Fix Pilgrim re-entry after death, passage object detection, navgrid recovery, planner/layout fixes.",
+        "IconUrl":  ""
+    }
 ]
