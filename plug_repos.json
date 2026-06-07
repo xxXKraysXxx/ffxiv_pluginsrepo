@@ -35,13 +35,13 @@
         "InternalName":  "CairnOfMaybeLater",
         "RepoUrl":  "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo",
         "DownloadCount":  0,
-        "LastUpdate":  1780857714,
+        "LastUpdate":  1780858316,
         "DownloadLinkInstall":  "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/CairnOfMaybeLater/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/CairnOfMaybeLater/latest.zip",
         "AssemblyVersion":  "0.1.0.0",
         "ApplicableVersion":  "any",
         "DalamudApiLevel":  "15",
-        "Changelog":  "Fix Pilgrim re-entry after death, passage object detection, navgrid recovery, planner/layout fixes.",
+        "Changelog":  "Abandoned-zone self escape; quiet inactive passage logging",
         "IconUrl":  ""
     }
 ]
