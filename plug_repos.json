@@ -1,46 +1,45 @@
-﻿[
-    {
-        "Author":  "veyn, croizat ... krays",
-        "Name":  "vfallgay",
-        "Punchline":  "Р‘РѕР±С‹ СЂСѓСЃСЃРёС„РёС†РёСЂРѕРІР°Р»Рё!",
-        "Description":  "РђРІС‚Рѕ РІС…РѕРґ/РІС‹С…РѕРґ РїСЂРё РїРѕСЂР°Р¶РµРЅРёРё, РїРѕРёСЃРє Р»РѕР±Р±Рё СЃ РјР°Р»С‹Рј РєРѕР»-РІРѕРј Р»СЋРґРµР№, РїРѕРґСЃРІРµС‚РєР° Р·РѕРЅ РЅР° РїРѕСЃР»РµРґРЅРµРј СЌС‚Р°РїРµ.",
-        "Tags":  [
-
-                 ],
-        "InternalName":  "vfallgay",
-        "RepoUrl":  null,
-        "DownloadCount":  1337,
-        "LastUpdate":  1762004081,
-        "DownloadLinkInstall":  "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/fallgay/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/fallgay/latest.zip",
-        "AssemblyVersion":  "0.0.0.10",
-        "ApplicableVersion":  "any",
-        "DalamudApiLevel":  "13",
-        "Changelog":  "",
-        "IconUrl":  "https://raw.githubusercontent.com/xxXKraysXxx/ffxiv_pluginsrepo/refs/heads/main/plugins/fallgay/fallgay.png"
-    },
-    {
-        "Author":  "krays",
-        "Name":  "Cairn of Maybe Later",
-        "Punchline":  "Autopilot for Palace of the Dead, Heaven-on-High and Eureka Orthos. Eventually.",
-        "Description":  "Deep Dungeon autopilot and debugging toolkit: entry navigation, pathing, combat fallback, pomander/chest logic, live map, replay viewer, and layout wall/block editor.",
-        "Tags":  [
-                     "deep dungeon",
-                     "potd",
-                     "hoh",
-                     "orthos",
-                     "automation"
-                 ],
-        "InternalName":  "CairnOfMaybeLater",
-        "RepoUrl":  "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo",
-        "DownloadCount":  0,
-        "LastUpdate":  1780849212,
-        "DownloadLinkInstall":  "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/CairnOfMaybeLater/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/CairnOfMaybeLater/latest.zip",
-        "AssemblyVersion":  "0.1.0.0",
-        "ApplicableVersion":  "any",
-        "DalamudApiLevel":  "15",
-        "Changelog":  "Initial public test release.",
-        "IconUrl":  ""
-    }
+[
+ {
+    "Author": "veyn, croizat ... krays",
+    "Name": "vfallgay",
+    "Punchline": "Бобы руссифицировали!",
+    "Description": "Авто вход/выход при поражении, поиск лобби с малым кол-вом людей, подсветка зон на последнем этапе.",
+    "Tags": [],
+    "InternalName": "vfallgay",
+    "RepoUrl": null,
+    "DownloadCount": 1337,
+    "LastUpdate": 1762004081,
+    "DownloadLinkInstall": "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/fallgay/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/fallgay/latest.zip",
+    "AssemblyVersion": "0.0.0.10",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "13",
+    "Changelog": "",
+    "IconUrl": "https://raw.githubusercontent.com/xxXKraysXxx/ffxiv_pluginsrepo/refs/heads/main/plugins/fallgay/fallgay.png"
+  },
+  {
+    "Author": "krays",
+    "Name": "Cairn of Maybe Later",
+    "Punchline": "Autopilot for Palace of the Dead, Heaven-on-High, Eureka Orthos and Pilgrim's Traverse. Eventually.",
+    "Description": "Ворк ин прогресс",
+    "Tags": [
+      "deep dungeon",
+      "potd",
+      "hoh",
+      "orthos",
+      "pilgrim's traverse",
+      "automation"
+    ],
+    "InternalName": "CairnOfMaybeLater",
+    "RepoUrl": "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo",
+    "DownloadCount": 0,
+    "LastUpdate": 1780849360,
+    "DownloadLinkInstall": "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/CairnOfMaybeLater/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/CairnOfMaybeLater/latest.zip",
+    "AssemblyVersion": "0.1.0.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "Initial public test release.",
+    "IconUrl": ""
+  }
 ]
