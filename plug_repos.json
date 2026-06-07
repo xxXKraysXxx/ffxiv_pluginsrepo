@@ -35,13 +35,13 @@
         "InternalName":  "CairnOfMaybeLater",
         "RepoUrl":  "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo",
         "DownloadCount":  0,
-        "LastUpdate":  1780859031,
+        "LastUpdate":  1780859842,
         "DownloadLinkInstall":  "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/CairnOfMaybeLater/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/CairnOfMaybeLater/latest.zip",
-        "AssemblyVersion":  "0.1.0.3",
+        "AssemblyVersion":  "0.1.0.4",
         "ApplicableVersion":  "any",
         "DalamudApiLevel":  "15",
-        "Changelog":  "0.1.0.3: prevent replay layout guessing from drawing wrong dungeon rooms over known Pilgrim replays",
+        "Changelog":  "0.1.0.4: initial probe frontier retry; F51 worded menu match; save slot callback guard",
         "IconUrl":  ""
     }
 ]
