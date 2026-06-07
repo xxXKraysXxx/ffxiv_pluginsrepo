@@ -35,13 +35,13 @@
         "InternalName":  "CairnOfMaybeLater",
         "RepoUrl":  "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo",
         "DownloadCount":  0,
-        "LastUpdate":  1780858316,
+        "LastUpdate":  1780858449,
         "DownloadLinkInstall":  "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/CairnOfMaybeLater/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/CairnOfMaybeLater/latest.zip",
-        "AssemblyVersion":  "0.1.0.0",
+        "AssemblyVersion":  "0.1.0.1",
         "ApplicableVersion":  "any",
         "DalamudApiLevel":  "15",
-        "Changelog":  "Abandoned-zone self escape; quiet inactive passage logging",
+        "Changelog":  "0.1.0.1: abandoned-zone self escape; quiet inactive passage logging",
         "IconUrl":  ""
     }
 ]
