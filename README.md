@@ -8,3 +8,5 @@ https://raw.githubusercontent.com/xxXKraysXxx/ffxiv_pluginsrepo/refs/heads/main/
 Contains:
 - vfallgay
 - Cairn of Maybe Later
+- Fish of Theseus
+

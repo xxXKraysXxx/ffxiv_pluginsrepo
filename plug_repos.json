@@ -43,5 +43,29 @@
         "DalamudApiLevel":  "15",
         "Changelog":  "0.1.0.5: recognize HoH Beacon of Passage/Return as step-on passage objects",
         "IconUrl":  ""
+    },
+    {
+        "Author":  "krays",
+        "Name":  "Fish of Theseus",
+        "Punchline":  "Ocean fishing assistant for FFXIV with route presets and automation helpers.",
+        "Description":  "Auto-register, move along predefined routes, and automate fish handling for High Seas sessions.",
+        "Tags":  [
+                     "fishing",
+                     "ocean",
+                     "automation",
+                     "ffxiv"
+                 ],
+        "InternalName":  "FishOfTheseus",
+        "RepoUrl":  "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo",
+        "DownloadCount":  0,
+        "LastUpdate":  1781233596,
+        "DownloadLinkInstall":  "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/FishOfTheseus/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/FishOfTheseus/latest.zip",
+        "AssemblyVersion":  "0.1.0.0",
+        "ApplicableVersion":  "any",
+        "DalamudApiLevel":  "15",
+        "Changelog":  "Initial Fish of Theseus package.",
+        "IconUrl":  ""
     }
 ]
+
