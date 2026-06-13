@@ -58,13 +58,13 @@
         "InternalName":  "FishOfTheseus",
         "RepoUrl":  "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo",
         "DownloadCount":  0,
-        "LastUpdate":  1781334639,
+        "LastUpdate":  1781339629,
         "DownloadLinkInstall":  "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/FishOfTheseus/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/FishOfTheseus/latest.zip",
-        "AssemblyVersion":  "0.1.0.2",
+        "AssemblyVersion":  "0.1.0.3",
         "ApplicableVersion":  "any",
         "DalamudApiLevel":  "15",
-        "Changelog":  "0.1.0.2: ocean fishing automation fixes, safer cleanup/repair flow, ID-based NPC/aethernet interaction, AutoHook conflict handling, and inventory closing fixes.",
+        "Changelog":  "0.1.0.3: smarter DH/TH confidence, Prize Catch setup, deck spot jitter, spinner retry, and safer result-window cleanup.",
         "IconUrl":  ""
     }
 ]
