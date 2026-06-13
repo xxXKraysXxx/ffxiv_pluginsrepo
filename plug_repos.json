@@ -58,13 +58,13 @@
         "InternalName":  "FishOfTheseus",
         "RepoUrl":  "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo",
         "DownloadCount":  0,
-        "LastUpdate":  1781351963,
+        "LastUpdate":  1781355810,
         "DownloadLinkInstall":  "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/FishOfTheseus/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/FishOfTheseus/latest.zip",
-        "AssemblyVersion":  "0.1.0.7",
+        "AssemblyVersion":  "0.1.0.8",
         "ApplicableVersion":  "any",
         "DalamudApiLevel":  "15",
-        "Changelog":  "0.1.0.7: retry transient Desynthesis open failures after external salvage dialog skip plugins.",
+        "Changelog":  "0.1.0.8: add high-score ocean fishing strategy, Mooch follow-ups, confirm-food delay, and safer GP burst logic.",
         "IconUrl":  ""
     }
 ]
