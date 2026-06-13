@@ -58,13 +58,13 @@
         "InternalName":  "FishOfTheseus",
         "RepoUrl":  "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo",
         "DownloadCount":  0,
-        "LastUpdate":  1781355810,
+        "LastUpdate":  1781360293,
         "DownloadLinkInstall":  "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/FishOfTheseus/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/FishOfTheseus/latest.zip",
-        "AssemblyVersion":  "0.1.0.8",
+        "AssemblyVersion":  "0.1.0.9",
         "ApplicableVersion":  "any",
         "DalamudApiLevel":  "15",
-        "Changelog":  "0.1.0.8: add high-score ocean fishing strategy, Mooch follow-ups, confirm-food delay, and safer GP burst logic.",
+        "Changelog":  "0.1.0.9: recognize Ruby ocean boat territory, use real duty queue flags, and tighten route destination matching.",
         "IconUrl":  ""
     }
 ]
