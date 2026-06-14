@@ -58,13 +58,13 @@
         "InternalName":  "FishOfTheseus",
         "RepoUrl":  "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo",
         "DownloadCount":  0,
-        "LastUpdate":  1781458964,
+        "LastUpdate":  1781461576,
         "DownloadLinkInstall":  "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/FishOfTheseus/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/FishOfTheseus/latest.zip",
-        "AssemblyVersion":  "0.1.0.13",
+        "AssemblyVersion":  "0.1.0.14",
         "ApplicableVersion":  "any",
         "DalamudApiLevel":  "15",
-        "Changelog":  "0.1.0.13: improve Mooch/Mooch II reliability, reserve spectral GP for Triple Hook, burn GP on final stop, and increase boat edge cast settle delay.",
+        "Changelog":  "0.1.0.14: republish Fish of Theseus package to refresh the plugin repository artifact.",
         "IconUrl":  ""
     }
 ]
