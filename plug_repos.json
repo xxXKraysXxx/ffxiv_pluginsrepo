@@ -58,13 +58,13 @@
         "InternalName":  "FishOfTheseus",
         "RepoUrl":  "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo",
         "DownloadCount":  0,
-        "LastUpdate":  1781461576,
+        "LastUpdate":  1781462742,
         "DownloadLinkInstall":  "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/FishOfTheseus/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/FishOfTheseus/latest.zip",
-        "AssemblyVersion":  "0.1.0.14",
+        "AssemblyVersion":  "0.1.0.15",
         "ApplicableVersion":  "any",
         "DalamudApiLevel":  "15",
-        "Changelog":  "0.1.0.14: republish Fish of Theseus package to refresh the plugin repository artifact.",
+        "Changelog":  "0.1.0.15: deduplicate ocean voyage result records and keep only latest.zip artifacts in the plugin repository.",
         "IconUrl":  ""
     }
 ]
