@@ -58,13 +58,13 @@
         "InternalName":  "FishOfTheseus",
         "RepoUrl":  "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo",
         "DownloadCount":  0,
-        "LastUpdate":  1781520518,
+        "LastUpdate":  1781584008,
         "DownloadLinkInstall":  "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/FishOfTheseus/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/FishOfTheseus/latest.zip",
-        "AssemblyVersion":  "0.1.0.16",
+        "AssemblyVersion":  "0.1.0.17",
         "ApplicableVersion":  "any",
         "DalamudApiLevel":  "15",
-        "Changelog":  "0.1.0.16: require Cast availability at boat edge spots and use short vnav face-move toward water before casting.",
+        "Changelog":  "0.1.0.17: fix self repair Repair All callback handling and add repair callback trace diagnostics.",
         "IconUrl":  ""
     }
 ]
