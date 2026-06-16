@@ -58,13 +58,13 @@
         "InternalName":  "FishOfTheseus",
         "RepoUrl":  "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo",
         "DownloadCount":  0,
-        "LastUpdate":  1781636480,
+        "LastUpdate":  1781636481,
         "DownloadLinkInstall":  "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/FishOfTheseus/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/FishOfTheseus/latest.zip",
-        "AssemblyVersion":  "0.1.0.18",
+        "AssemblyVersion":  "0.1.0.19",
         "ApplicableVersion":  "any",
         "DalamudApiLevel":  "15",
-        "Changelog":  "0.1.0.18: add purple scrip Hi-Cordial purchase flow and fix Scrip Exchange subcategory selection.",
+        "Changelog":  "0.1.0.19: add voyage strategy trace logs, relog character-availability recovery, and Well Fed-only autofood confirmation.",
         "IconUrl":  ""
     }
 ]
