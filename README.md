@@ -9,4 +9,4 @@ Contains:
 - vfallgay
 - Cairn of Maybe Later
 - Fish of Theseus
-
+- [RSR Classic Panel](plugins/RSRClassicPanel/README.md)

@@ -1,4 +1,4 @@
-﻿[
+[
     {
         "Author":  "veyn, croizat ... krays",
         "Name":  "vfallgay",
@@ -66,6 +66,32 @@
         "DalamudApiLevel":  "15",
         "Changelog":  "0.1.0.26: plan mission pressure across future zones and cancel stray Dryskthota menus during prep.",
         "IconUrl":  ""
+    },
+    {
+        "Author": "krays; CombatReborn contributors (legacy UI)",
+        "Name": "RSR Classic Panel",
+        "InternalName": "RSRClassicPanel",
+        "AssemblyVersion": "0.1.1.0",
+        "RepoUrl": "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/tree/main/plugins/RSRClassicPanel",
+        "Punchline": "The pre-Material RSR control panel alongside current Rotation Solver Reborn.",
+        "Description": "Restores the 7.5.6.13 control panel layout using current RSR state and actions. Requires Rotation Solver Reborn and Dalamud API 15. Open with /rsrclassic; settings with /rsrclassic config. Uses a reflection adapter for live RSR state; future RSR changes can require an addon update.",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 15,
+        "LoadRequiredState": 0,
+        "LoadSync": true,
+        "CanUnloadAsync": false,
+        "Tags": [
+            "ui",
+            "rotation",
+            "classic"
+        ],
+        "AcceptsFeedback": false,
+        "DownloadCount": 0,
+        "LastUpdate": 1791296993,
+        "DownloadLinkInstall": "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/RSRClassicPanel/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/RSRClassicPanel/latest.zip",
+        "DownloadLinkTesting": "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/RSRClassicPanel/latest.zip",
+        "Changelog": "0.1.1.0: restore the pre-Material control panel; click Targeting to cycle through configured modes.",
+        "IconUrl": ""
     }
 ]
-

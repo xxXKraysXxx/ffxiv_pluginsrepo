@@ -1,0 +1,20 @@
+RSR Classic Panel 0.1.1.0
+
+This companion plugin includes modified renderer code from RotationSolverReborn
+7.5.6.13, copyright the RotationSolverReborn / CombatReborn contributors.
+Upstream: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/tree/7.5.6.13
+
+Adapted files: ControlWindow.cs, CtrlWindow.cs, ImGuiHelper.cs,
+ImguiTooltips.cs and NextActionWindow.cs.
+
+Modifications: standalone Dalamud entry point, reflection adapter to the live RSR
+plugin, separate panel configuration, lifecycle/exception handling, and targeting
+mode cycling. The adapted code and accompanying source are distributed under
+the GNU Lesser General Public License version 3 or any later version.
+See COPYING and COPYING.LESSER.
+
+Complete corresponding addon source, build files, tests, notices and licenses:
+https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/RSRClassicPanel/source-0.1.1.0.zip
+
+RSR, ECommons, Dalamud and game assets are not included in this distribution.
+This addon uses the user's installed RSR/Dalamud and the game's existing textures.
