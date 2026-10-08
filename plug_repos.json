@@ -2,21 +2,21 @@
     {
         "Author":  "veyn, croizat ... krays",
         "Name":  "vfallgay",
-        "Punchline":  "Бобы руссифицировали!",
+        "Punchline":  "Бобы русифицировали!",
         "Description":  "Авто вход/выход при поражении, поиск лобби с малым кол-вом людей, подсветка зон на последнем этапе.",
         "Tags":  [
 
                  ],
         "InternalName":  "vfallgay",
-        "RepoUrl":  null,
+        "RepoUrl":  "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/tree/main/plugins/fallgay",
         "DownloadCount":  1337,
-        "LastUpdate":  1762004081,
+        "LastUpdate":  1791449348,
         "DownloadLinkInstall":  "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/fallgay/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/fallgay/latest.zip",
-        "AssemblyVersion":  "0.0.0.10",
+        "AssemblyVersion":  "0.0.0.11",
         "ApplicableVersion":  "any",
-        "DalamudApiLevel":  "13",
-        "Changelog":  "",
+        "DalamudApiLevel":  15,
+        "Changelog":  "0.0.0.11: обновление до Dalamud API 15 на основе upstream 7715d9a; сохранены русский интерфейс и авто выход при поражении; исправлены повторная очередь выхода и ID событий AOE.",
         "IconUrl":  "https://raw.githubusercontent.com/xxXKraysXxx/ffxiv_pluginsrepo/refs/heads/main/plugins/fallgay/fallgay.png"
     },
     {
