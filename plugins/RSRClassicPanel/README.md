@@ -2,7 +2,7 @@
 
 A companion Dalamud plugin that restores the Rotation Solver Reborn **7.5.6.13 control panel** while using the installed RSR's current combat logic. Keep RSR installed and updated normally.
 
-Requires **Dalamud API 15**, .NET 10, and Rotation Solver Reborn. The adapter's contracts were checked against **RSR 7.5.6.18**. Future changes to RSR or Dalamud internals may require updating this companion plugin.
+Requires **Dalamud API 15**, .NET 10, and Rotation Solver Reborn. The adapter's contracts were checked against **RSR 7.5.6.21 and 7.5.6.23**. Future changes to RSR or Dalamud internals may require updating this companion plugin.
 
 ## Install
 
@@ -39,7 +39,7 @@ This project does not bundle or reference RSR or ECommons DLLs. The adapter loca
 
 ## Validation
 
-Release compilation completed without warnings. The source bundle includes a test project with 29 checks for action execution/queuing, targeting cycling, settings, visibility and reload/failure handling. RSR 7.5.6.18 member signatures were verified against the installed binaries. These checks do not replace in-game visual and interaction testing.
+Release compilation completed without warnings. The source bundle includes a test project with 32 checks for action execution/queuing, targeting cycling, settings, visibility and reload/failure handling. RSR 7.5.6.21 and 7.5.6.23 member signatures were verified against their binaries. Tests cover both the original action-queue signature and the optional target argument added in RSR 7.5.6.22. These checks do not replace in-game visual and interaction testing.
 
 ## License and attribution
 

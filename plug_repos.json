@@ -69,7 +69,7 @@
     "Author": "krays; CombatReborn contributors (legacy UI)",
     "Name": "RSR Classic Panel",
     "InternalName": "RSRClassicPanel",
-    "AssemblyVersion": "0.1.1.0",
+    "AssemblyVersion": "0.1.2.0",
     "RepoUrl": "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/tree/main/plugins/RSRClassicPanel",
     "Punchline": "The pre-Material RSR control panel alongside current Rotation Solver Reborn.",
     "Description": "Restores the 7.5.6.13 control panel layout using current RSR state and actions. Requires Rotation Solver Reborn and Dalamud API 15. Open with /rsrclassic; settings with /rsrclassic config. Uses a reflection adapter for live RSR state; future RSR changes can require an addon update.",
@@ -85,11 +85,11 @@
     ],
     "AcceptsFeedback": false,
     "DownloadCount": 0,
-    "LastUpdate": 1791296993,
+    "LastUpdate": 1791712053,
     "DownloadLinkInstall": "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/RSRClassicPanel/latest.zip",
     "DownloadLinkUpdate": "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/RSRClassicPanel/latest.zip",
     "DownloadLinkTesting": "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/RSRClassicPanel/latest.zip",
-    "Changelog": "0.1.1.0: restore the pre-Material control panel; click Targeting to cycle through configured modes.",
+    "Changelog": "0.1.2.0: fix compatibility with RSR 7.5.6.22/23 action queuing; retain support for earlier RSR versions.",
     "IconUrl": ""
   }
 ]
