@@ -69,10 +69,10 @@
     "Author": "krays; CombatReborn contributors (legacy UI)",
     "Name": "RSR Classic Panel",
     "InternalName": "RSRClassicPanel",
-    "AssemblyVersion": "0.1.2.0",
+    "AssemblyVersion": "0.2.0.0",
     "RepoUrl": "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/tree/main/plugins/RSRClassicPanel",
-    "Punchline": "The pre-Material RSR control panel alongside current Rotation Solver Reborn.",
-    "Description": "Restores the 7.5.6.13 control panel layout using current RSR state and actions. Requires Rotation Solver Reborn and Dalamud API 15. Open with /rsrclassic; settings with /rsrclassic config. Uses a reflection adapter for live RSR state; future RSR changes can require an addon update.",
+    "Punchline": "Classic RSR controls and Lifestream's old travel overlay with current plugin updates.",
+    "Description": "Restores RSR's 7.5.6.13 control panel and Lifestream's pre-badge travel overlay using the installed plugins' current logic. Lifestream replacement is ON by default and can be disabled in /rsrclassic config or with /rsrclassic lifestream off. Each integration works independently; keep the original plugins installed and updated. Requires Dalamud API 15. Future upstream changes may require an addon update.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "LoadRequiredState": 0,
@@ -81,15 +81,17 @@
     "Tags": [
       "ui",
       "rotation",
-      "classic"
+      "classic",
+      "lifestream",
+      "travel"
     ],
     "AcceptsFeedback": false,
     "DownloadCount": 0,
-    "LastUpdate": 1791712053,
+    "LastUpdate": 1792153074,
     "DownloadLinkInstall": "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/RSRClassicPanel/latest.zip",
     "DownloadLinkUpdate": "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/RSRClassicPanel/latest.zip",
     "DownloadLinkTesting": "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/RSRClassicPanel/latest.zip",
-    "Changelog": "0.1.2.0: fix compatibility with RSR 7.5.6.22/23 action queuing; retain support for earlier RSR versions.",
+    "Changelog": "0.2.0.0: restore Lifestream's pre-badge travel overlay, including world and ward buttons. ON by default; toggle in /rsrclassic config or with /rsrclassic lifestream on|off. Compatibility checked with RSR 7.5.7.2 and Lifestream 2.6.0.6.",
     "IconUrl": ""
   }
 ]

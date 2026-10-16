@@ -1,4 +1,4 @@
-RSR Classic Panel 0.1.2.0
+RSR Classic Panel 0.2.0.0
 
 This companion plugin includes modified renderer code from RotationSolverReborn
 7.5.6.13, copyright the RotationSolverReborn / CombatReborn contributors.
@@ -14,7 +14,11 @@ the GNU Lesser General Public License version 3 or any later version.
 See COPYING and COPYING.LESSER.
 
 Complete corresponding addon source, build files, tests, notices and licenses:
-https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/RSRClassicPanel/source-0.1.2.0.zip
+https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/RSRClassicPanel/source-0.2.0.0.zip
 
 RSR, ECommons, Dalamud and game assets are not included in this distribution.
 This addon uses the user's installed RSR/Dalamud and the game's existing textures.
+
+The Lifestream integration calls the installed Lifestream plugin's renderers and
+travel routines. Lifestream, BadgeOverlay and their dependencies are not bundled.
+Lifestream upstream: https://github.com/NightmareXIV/Lifestream
