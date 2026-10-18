@@ -2,7 +2,7 @@
 
 A companion Dalamud plugin that restores the Rotation Solver Reborn **7.5.6.13 control panel** and **Lifestream's pre-badge travel overlay** while using the installed plugins' current logic. Keep RSR and Lifestream updated normally.
 
-Requires **Dalamud API 15** and .NET 10. Each integration works independently with its original plugin installed. Contracts were checked against **RSR 7.5.6.21, 7.5.6.24 and 7.5.7.2**, and **Lifestream 2.6.0.6**. Older Lifestream versions that already use the classic overlay keep their own UI. Future upstream changes may require updating this companion plugin.
+Requires **Dalamud API 15** and .NET 10. Each integration works independently with its original plugin installed. RSR contracts were checked against **7.5.6.21, 7.5.6.24 and 7.5.7.2**; the Lifestream adapter was checked against **2.6.0.6 and 2.6.0.7**. Older Lifestream versions that already use the classic overlay keep their own UI. Future upstream changes may require updating this companion plugin.
 
 ## Install
 
@@ -57,7 +57,7 @@ Release compilation completed without warnings. The source bundle includes tests
 dotnet run --project ../RSRClassicPanel.Tests -c Release -p:DalamudLibPath='C:\path\to\Dalamud' -- 'C:\path\to\Lifestream-2.6.0.6' 'C:\path\to\Lifestream-2.5.4.23'
 ```
 
-With both reference versions available, the suite runs 75 checks. Without binary folders it runs the executable behavior and lifecycle checks only.
+With both reference versions available, the suite runs 82 checks. Without binary folders it runs the executable behavior and lifecycle checks only. Polling regression tests return fresh plugin wrappers every second and verify that the same overlay stays installed, a closed overlay remains closed, and real unload/reload still reconnects correctly.
 
 ## License and attribution
 
