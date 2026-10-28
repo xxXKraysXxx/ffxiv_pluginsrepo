@@ -98,20 +98,20 @@
     "Author": "krays",
     "Name": "Keyboard Warrior",
     "InternalName": "KeyboardBrawlerLogger",
-    "AssemblyVersion": "0.2.7.0",
+    "AssemblyVersion": "0.2.8.0",
     "RepoUrl": "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/tree/main/plugins/KeyboardWarrior",
     "Punchline": "Typing automation, interrupt priorities, and teammate stats for Keybound Brawler.",
-    "Description": "Use /kw for typing controls, speed presets, target priorities, debuff handling, and teammate stats with score estimates. Auto-start in the minigame is enabled by default and can be disabled in /kw. Escape or /kw off stops typing for the current round. /kb remains an alias and /kblog opens the recorder.",
+    "Description": "Use /kw for typing controls, speed presets, target priorities, debuff handling, and teammate stats with score estimates. Auto-start in the minigame is enabled by default and can be disabled in /kw. Optional classic UT announcer sounds are off by default. Escape or /kw off stops typing for the current round. /kb remains an alias and /kblog opens the recorder.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "Tags": ["gold saucer", "keybound brawler", "typing", "automation"],
     "AcceptsFeedback": false,
     "DownloadCount": 0,
-    "LastUpdate": 1793187704,
+    "LastUpdate": 1793188518,
     "DownloadLinkInstall": "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/KeyboardWarrior/latest.zip",
     "DownloadLinkUpdate": "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/KeyboardWarrior/latest.zip",
     "DownloadLinkTesting": "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/KeyboardWarrior/latest.zip",
-    "Changelog": "0.2.7.0: Startup now continues an existing valid phrase prefix or submits an already complete phrase; unrelated text is cleared automatically. Cleanup waits for input to unlock and for gaze/jammer recovery to end. Manual edits after startup still stop automation. Target priorities and boss detection are unchanged.",
-    "IconUrl": ""
+    "Changelog": "0.2.8.0: Added optional classic Unreal Tournament announcer sounds, off by default in /kw. First Blood and four-second multikill chains through Monster Kill; Killing Spree, Rampage, Dominating, Unstoppable and Godlike at 5/10/15/20/25 own kills. Uses observed final hits and zero-HP transitions, excludes shield prompts, and coalesces queued lines without overlapping playback. Increased post-Gaze/Dynamic Sensory Jammer recovery to 2300 ms and added the requested plugin icon.",
+    "IconUrl": "https://raw.githubusercontent.com/xxXKraysXxx/ffxiv_pluginsrepo/main/plugins/KeyboardWarrior/icon.png"
   }
 ]
