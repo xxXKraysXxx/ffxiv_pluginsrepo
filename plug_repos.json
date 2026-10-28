@@ -93,5 +93,25 @@
     "DownloadLinkTesting": "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/RSRClassicPanel/latest.zip",
     "Changelog": "0.2.1.0: fix Lifestream overlay repeatedly reappearing every second. Connection polling now recognizes the stable live plugin owner instead of comparing temporary wrappers. Closed overlays stay closed; real plugin reloads still reconnect. Checked against Lifestream 2.6.0.7.",
     "IconUrl": ""
+  },
+  {
+    "Author": "krays",
+    "Name": "Keyboard Warrior",
+    "InternalName": "KeyboardBrawlerLogger",
+    "AssemblyVersion": "0.2.2.0",
+    "RepoUrl": "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/tree/main/plugins/KeyboardWarrior",
+    "Punchline": "Typing automation, interrupt priorities, and teammate stats for Keybound Brawler.",
+    "Description": "Use /kw for typing controls, speed presets, target priorities, debuff handling, and teammate stats with score estimates. Start manually; Escape or /kw off stops typing. /kb remains an alias and /kblog opens the recorder.",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Tags": ["gold saucer", "keybound brawler", "typing", "automation"],
+    "AcceptsFeedback": false,
+    "DownloadCount": 0,
+    "LastUpdate": 1793184297,
+    "DownloadLinkInstall": "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/KeyboardWarrior/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/KeyboardWarrior/latest.zip",
+    "DownloadLinkTesting": "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/KeyboardWarrior/latest.zip",
+    "Changelog": "0.2.2.0: Fixed priorities and automatic swaps: interrupts, shields, approaching enemies, regular casts, other enemies, bosses. Handles zero-HP shields and pauses after Cursed Gaze. Party stats use observed shots; unrelated HP and buffs removed. /kw opens controls; start typing manually.",
+    "IconUrl": ""
   }
 ]
