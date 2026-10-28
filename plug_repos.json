@@ -98,7 +98,7 @@
     "Author": "krays",
     "Name": "Keyboard Warrior",
     "InternalName": "KeyboardBrawlerLogger",
-    "AssemblyVersion": "0.2.2.0",
+    "AssemblyVersion": "0.2.3.0",
     "RepoUrl": "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/tree/main/plugins/KeyboardWarrior",
     "Punchline": "Typing automation, interrupt priorities, and teammate stats for Keybound Brawler.",
     "Description": "Use /kw for typing controls, speed presets, target priorities, debuff handling, and teammate stats with score estimates. Start manually; Escape or /kw off stops typing. /kb remains an alias and /kblog opens the recorder.",
@@ -107,11 +107,11 @@
     "Tags": ["gold saucer", "keybound brawler", "typing", "automation"],
     "AcceptsFeedback": false,
     "DownloadCount": 0,
-    "LastUpdate": 1793184297,
+    "LastUpdate": 1793184953,
     "DownloadLinkInstall": "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/KeyboardWarrior/latest.zip",
     "DownloadLinkUpdate": "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/KeyboardWarrior/latest.zip",
     "DownloadLinkTesting": "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/KeyboardWarrior/latest.zip",
-    "Changelog": "0.2.2.0: Fixed priorities and automatic swaps: interrupts, shields, approaching enemies, regular casts, other enemies, bosses. Handles zero-HP shields and pauses after Cursed Gaze. Party stats use observed shots; unrelated HP and buffs removed. /kw opens controls; start typing manually.",
+    "Changelog": "0.2.3.0: Compact controls with redundant instructions and the debug recorder button removed. Russian UI follows Dalamud's selected language and updates immediately when it changes. Added Average Writer: 400 symbols/min with a 90 ms submit delay. /kw average or /kw medium selects the new preset.",
     "IconUrl": ""
   }
 ]
