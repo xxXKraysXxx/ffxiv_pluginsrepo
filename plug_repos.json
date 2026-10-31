@@ -33,13 +33,13 @@
     "InternalName": "CairnOfMaybeLater",
     "RepoUrl": "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo",
     "DownloadCount": 0,
-    "LastUpdate": 1791711580,
+    "LastUpdate": 1793432387,
     "DownloadLinkInstall": "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/CairnOfMaybeLater/latest.zip",
     "DownloadLinkUpdate": "https://github.com/xxXKraysXxx/ffxiv_pluginsrepo/raw/main/plugins/CairnOfMaybeLater/latest.zip",
-    "AssemblyVersion": "0.1.0.6",
+    "AssemblyVersion": "0.1.0.7",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
-    "Changelog": "0.1.0.6: rebuilt for current Dalamud API 15 / .NET 10; updated chat and local-player API usage; includes planner, navigation, and Pilgrim layout improvements.",
+    "Changelog": "0.1.0.7: native Dalamud UI-language selection; expanded Russian translations for settings, planner, setup, maps, replays and Pilgrim surveys; stable translated window IDs and readable button widths. Built for Dalamud API 15.",
     "IconUrl": ""
   },
   {
